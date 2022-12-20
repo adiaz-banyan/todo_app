@@ -1,0 +1,14 @@
+*.log
+*.pot
+*.pyc
+todo_app_1/__pycache__
+todo_app_1/db.sqlite3
+todo_app_1/media
+.env 
+.venv 
+env/ 
+venv/ 
+ENV/ 
+env.bak/ 
+venv.bak/
+.vscode
